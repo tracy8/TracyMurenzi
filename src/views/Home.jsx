@@ -10,7 +10,7 @@ const Home = () => {
           <div className="px-4 py-6 sm:px-0">
     
             <div className="border-4 border-indigo-200 border-t-indigo-700 font-bold text-3xl tracking-wider p-8">
-            10 days added now you have 100 days remaining !
+            10 days added, now you have 100 days remaining !
             </div>
 
           </div>
