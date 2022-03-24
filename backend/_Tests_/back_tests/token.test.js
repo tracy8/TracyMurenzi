@@ -20,8 +20,8 @@ describe("Token endpoint", () => {
     _id: "620e54b02b62091160f66bfd",
     code: "324287",
     power_expiration_time: new Date(date),
-    owner_first_name: "izabayo",
-    owner_last_name: "Cedric",
+    owner_first_name: "tracy",
+    owner_last_name: "murenzi",
   };
 
   let data = {
