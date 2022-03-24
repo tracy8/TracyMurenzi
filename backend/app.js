@@ -34,7 +34,7 @@ db.mongoose
 
 
 app.get("/", (req, res) => {
-    res.json({ message: "Welcome to E-power." });
+    res.json({ message: "Welcome to our app." });
 });
 
 require("./app/routes/meter.routes")(app);
